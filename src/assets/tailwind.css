@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .meme-text-shadow {
+        text-shadow: 2px 2px 0 #000,
+            -2px -2px 0 #000,
+            2px -2px 0 #000,
+            -2px 2px 0 #000,
+            0px 2px 0 #000,
+            2px 0px 0 #000,
+            0px -2px 0 #000,
+            -2px 0px 0 #000,
+            2px 2px 5px #000;
+    }
+}
