@@ -1,6 +1,6 @@
 # Memes Generator Website
 
-This project is a meme generator website built using React.js and TailwindCSS. It utilizes an API that provides access to 100 popular meme images, allowing users to generate custom memes with captions of their choice.
+This project is a meme generator website built using React.js and TailwindCSS. It utilizes an API that provides access to popular meme images, allowing users to generate custom memes with captions of their choice.
 
 ## Features
 
@@ -11,7 +11,7 @@ This project is a meme generator website built using React.js and TailwindCSS. I
 
 - React.js: A JavaScript library for building user interfaces.
 - TailwindCSS: A utility-first CSS framework for rapid UI development.
-- Memes Images API: An API that provides access to a collection of 100 popular meme images.
+- Memes Images API: An API that provides access to a collection of popular meme images.
 
 ## Installation
 
